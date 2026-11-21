@@ -1,0 +1,6 @@
+{
+  "name": "RPG Character Manager",
+  "description": "Gerenciador universal e offline de fichas de RPG de mesa com atributos personalizáveis, inventário, equipamento visual, motor de habilidades em turnos, diário e modelos reutilizáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
